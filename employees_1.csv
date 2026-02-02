@@ -1,0 +1,14 @@
+EmployeeID,EmployeeName,StoreID,Role,HireDate,Salary
+101,Eve,1,Cashier,1/1/2018,30000
+102,Sam,2,Manager,30/06/18,55000
+103,Tom,2,Sales,27/12/18,40000
+104,Linda,3,Cashier,25/06/19,32000
+105,Rob,4,Manager,22/12/19,60000
+106,Sophia,5,Sales,19/06/20,42000
+107,James,6,Cashier,16/12/20,31000
+108,Mia,7,Sales,14/06/21,41000
+109,Luke,8,Cashier,11/12/2021,33000
+110,Liam,9,Manager,9/6/2022,58000
+111,Ava,10,Sales,6/12/2022,44000
+112,Noah,11,Cashier,4/6/2023,35000
+113,Ella,12,Sales,1/12/2023,39000
